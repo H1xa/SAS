@@ -14,8 +14,8 @@ const jimp = require('jimp')
 const math = require('math-expression-evaluator'); 
 const child_process = require("child_process");
 const developers = ['290908670529896448'];
-const admin = ".";
-const prefix = ".";
+const admin = "-";
+const prefix = "-";
 
 
 //=============================== - [ Bot ] - ===================================
